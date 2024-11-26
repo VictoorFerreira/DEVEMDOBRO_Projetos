@@ -5,3 +5,8 @@
     - Projeto One Piece
     - Projeto Lista Pokemon
     - Projeto Super Mario
+
+<p>Tecnologias Usadas</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
